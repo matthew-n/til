@@ -9,6 +9,6 @@ dist:
 	mkdir ./dist
 
 clean: phony
-	rm -rf ./dist
+	rm -rf ./dist/*
 
 	
